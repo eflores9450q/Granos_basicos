@@ -357,7 +357,7 @@
 				<Title>cuerpos_de_agua</Title>
 				<Abstract>GH:cuerpos_de_agua ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cuerpos_de_agua.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cuerpos_de_agua.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.05123428814264" miny="13.250157660664877" maxx="-87.90823396388818" maxy="14.318463437827095"></LatLonBoundingBox>
@@ -377,7 +377,7 @@
 				<Title>rios25k_wgs84</Title>
 				<Abstract>GH:rios25k_wgs84 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/rios25k_wgs84.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/rios25k_wgs84.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.13577823142212" miny="13.161426204265256" maxx="-87.70825574807536" maxy="14.450506291996847"></LatLonBoundingBox>
@@ -397,7 +397,7 @@
 				<Title>pastos_cultivados</Title>
 				<Abstract>GH:pastos_cultivados ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/pastos_cultivados.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/pastos_cultivados.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.10309826631661" miny="13.169393830368634" maxx="-87.77750393715212" maxy="14.410005389479913"></LatLonBoundingBox>
@@ -417,7 +417,7 @@
 				<Title>palmeras_oleiferas</Title>
 				<Abstract>GH:palmeras_oleiferas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/palmeras_oleiferas.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/palmeras_oleiferas.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.10021296799698" miny="13.167901146976606" maxx="-88.25544891326622" maxy="13.731791464804758"></LatLonBoundingBox>
@@ -437,7 +437,7 @@
 				<Title>mosaico_de_cultivos_y_pastos</Title>
 				<Abstract>GH:mosaico_de_cultivos_y_pastos ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/mosaico_de_cultivos_y_pastos.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/mosaico_de_cultivos_y_pastos.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.09992709971793" miny="13.159571214660684" maxx="-87.71549141041771" maxy="14.416862063684835"></LatLonBoundingBox>
@@ -457,7 +457,7 @@
 				<Title>arboles_frutales</Title>
 				<Abstract>GH:arboles_frutales ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/arboles_frutales.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/arboles_frutales.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.92903425291341" miny="13.192017088284109" maxx="-87.8209306311328" maxy="14.317363570760497"></LatLonBoundingBox>
@@ -477,7 +477,7 @@
 				<Title>cafe</Title>
 				<Abstract>GH:cafe ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cafe.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cafe.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.9815782425595" miny="13.268738735264476" maxx="-87.81809012965718" maxy="14.333016939787361"></LatLonBoundingBox>
@@ -497,7 +497,7 @@
 				<Title>cultivo_pina</Title>
 				<Abstract>GH:cultivo_pina ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cultivo_pina.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cultivo_pina.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.66771972020192" miny="14.000191809076231" maxx="-89.64296212779647" maxy="14.016990819666859"></LatLonBoundingBox>
@@ -517,7 +517,7 @@
 				<Title>hortalizas</Title>
 				<Abstract>GH:hortalizas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/hortalizas.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/hortalizas.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.6571705036123" miny="13.244467160522188" maxx="-87.74904047596817" maxy="14.012327319214831"></LatLonBoundingBox>
@@ -537,7 +537,7 @@
 				<Title>cultivos_irrigados</Title>
 				<Abstract>GH:cultivos_irrigados ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cultivos_irrigados.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cultivos_irrigados.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.93074387436008" miny="13.219770566525058" maxx="-88.27085864954091" maxy="14.355456049337368"></LatLonBoundingBox>
@@ -557,7 +557,7 @@
 				<Title>cultivos_anuales_asociados_con_cultivos_permanentes</Title>
 				<Abstract>GH:cultivos_anuales_asociados_con_cultivos_permanentes ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cultivos_anuales_asociados_con_cultivos_permanentes.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/cultivos_anuales_asociados_con_cultivos_permanentes.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.11199046724852" miny="13.159140559071545" maxx="-87.81298414712818" maxy="14.393375570471525"></LatLonBoundingBox>
@@ -577,7 +577,7 @@
 				<Title>granos_basicos</Title>
 				<Abstract>GH:granos_basicos ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/granos_basicos.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/eflores9450q/Granos_basicos/releases/download/Map_Download/granos_basicos.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.10350437289247" miny="13.15718897652499" maxx="-87.69102790207106" maxy="14.426556522653309"></LatLonBoundingBox>
